@@ -304,10 +304,10 @@ copilot --continue
 copilot --resume
 
 # Or resume a specific session by ID
-copilot --resume abc123
+copilot --resume=abc123
 
 # Or resume by the name you gave the session
-copilot --resume=book-app-review
+copilot --resume="my book app review"
 ```
 
 > 💡 **How do I find a session ID?** You don't need to memorize them. Running `copilot --resume` without an ID shows an interactive list of your previous sessions, their names, IDs, and when they were last active. Just pick the one you want.
