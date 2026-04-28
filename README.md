@@ -92,8 +92,18 @@ The **[GitHub Copilot CLI command reference](https://docs.github.com/en/copilot/
 ## 🙋 Getting Help
 
 - 🐛 **Found a bug?** [Open an Issue](https://github.com/github/copilot-cli-for-beginners/issues)
-- 🤝 **Want to contribute?** PRs welcome!
 - 📚 **Official Docs:** [GitHub Copilot CLI Documentation](https://docs.github.com/copilot/concepts/agents/about-copilot-cli)
+
+## Contributing
+
+> **Note**: The code used in the course is designed to generate specific types of output during reviews, explanations, and debugging so we aren't able to accept PRs that change the existing code.
+
+**How to contribute:**
+
+1. Fork this repository and clone it to your machine
+2. Create a feature branch (`git checkout -b my-improvement`)
+3. Make your changes
+4. Submit a pull request
 
 ## License
 
